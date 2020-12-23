@@ -165,15 +165,108 @@
       <change afterPath="$PROJECT_DIR$/../demo_mvc/src/view/detail.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo_mvc/src/view/list.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/Customers/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/Customers/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/Customers/list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/cities/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/cities/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/cities/list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/SidebarNav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/export.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/jqcandlestick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/monthly.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/slider7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/images/weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/SidebarNav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/SimpleChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/amcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/chartinator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/images/lens.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/index1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/jquery.jqcandlestick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/monthly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/serial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/w3layouts-License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyTinh/public/backend/widgets.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_time/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_time/HTTP2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyTinh/resources/views/Customers/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/Customers/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyTinh/resources/views/cities/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/cities/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyTinh/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyTinh/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +278,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -307,7 +400,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/QuanLyTinh/public/backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -318,6 +411,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/QuanLyTinh/public/backend" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/QuanLyTinh/resources/views/cities" />
     </key>
@@ -333,7 +429,12 @@
       <workItem from="1608535678081" duration="4926000" />
       <workItem from="1608599057582" duration="3646000" />
       <workItem from="1608603521224" duration="969000" />
-      <workItem from="1608608666832" duration="3715000" />
+      <workItem from="1608608666832" duration="4162000" />
+      <workItem from="1608618966343" duration="1229000" />
+      <workItem from="1608620493591" duration="5895000" />
+      <workItem from="1608645195439" duration="3470000" />
+      <workItem from="1608648730801" duration="39000" />
+      <workItem from="1608685805080" duration="5981000" />
     </task>
     <servers />
   </component>

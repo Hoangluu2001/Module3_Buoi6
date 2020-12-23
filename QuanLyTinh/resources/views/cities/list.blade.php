@@ -4,12 +4,13 @@
     <div class="col-12">
         <div class="row">
             <div class="col-12">
-                <h1>Danh Sách Khách Hàng</h1>
+                <h1>Danh Sách Các Thành Phố</h1>
             </div>
+            <a style="position: absolute;left: 90%" class="btn btn-primary" href="{{route('cities.create')}}">Thêm mới</a>
             <table class="table table-striped">
                 <thead>
                 <tr>
-                    <th scope="col">#</th>
+                    <th scope="col">STT</th>
                     <th scope="col">Tên tỉnh thành</th>
                     <th scope="col">Số khách hàng</th>
                     <th scope="col">Edit </th>
@@ -36,7 +37,7 @@
                 @endif
                 </tbody>
             </table>
-            <a class="btn btn-primary" href="{{route('cities.create')}}">Thêm mới</a>
+
         </div>
     </div>
 @endsection

@@ -8,8 +8,9 @@
                 <h1>Danh Sách Khách Hàng</h1>
             </div>
             <a class="btn btn-outline-primary" href="" data-toggle="modal" data-target="#cityModal">
-                Lọc
+                Tìm Kiếm
             </a>
+            <a style="position: absolute;left: 90%" class="btn btn-primary" href="{{ route('customers.create') }}">Thêm mới</a>
             <div class="col-12">
                 @if (Session::has('success'))
                     <p class="text-success">
@@ -34,7 +35,7 @@
             <table class="table table-striped">
                 <thead>
                 <tr>
-                    <th scope="col">#</th>
+                    <th scope="col">STT</th>
                     <th scope="col">Tên khách hàng</th>
                     <th scope="col">Ngày Sinh</th>
                     <th scope="col">Email</th>
@@ -63,7 +64,7 @@
                 @endif
                 </tbody>
             </table>
-            <a class="btn btn-primary" href="{{ route('customers.create') }}">Thêm mới</a>
+
         </div>
 
         <!-- Modal -->
@@ -80,7 +81,7 @@
                             <!--Lọc theo khóa học -->
                             <div class="select-by-program">
                                 <div class="form-group row">
-                                    <label class="col-sm-5 col-form-label border-right">Lọc khách hàng theo tỉnh thành</label>
+                                    <label class="col-sm-5 col-form-label border-right">Tìm Kiếm khách hàng theo tỉnh thành</label>
                                     <div class="col-sm-7">
                                         <select class="custom-select w-100" name="city_id">
                                             <option value="">Chọn tỉnh thành</option>
